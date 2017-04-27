@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_ef2a2ebf52d78b5b29dd78cd4f683e0180a2aa9d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_08b223ec97cd25bba34f10bbc62b87650199bba4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a6586b61fe5a32aef20f44e5cb02298de45d17de">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e1372cb09c12bfb53439e9f3842fce844a93d6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_7cbbb979d3ab81c47a01f7efe944c2be4d4b1f4f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_27cd295935c9cd302887a8ae87e1b440894dd69a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_95cdbafc75ef20362fd33649c46226a9bd02f09d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_14f78ce54a48b8d2b1b8545a2b5c5adde815a492/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_a21c3acc35c3ceeb48f291dadc316684ac610c1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_4ef9b1cacd82d54dd2e805e78648c338acc76223/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ee75cffbca1bd1306939b27db8401964cf8f73f1">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60ecc837b041d316942ccd3e3fdfbaaebd63fb49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_35573d554e646d724ce47ccaa20d475ce6a3c125/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/github/CustomCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/apple/github/CustomCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_f9e46b49b56a22bddeb0c576bbc408436094544e/classes.dex" />
+    </item>
+
+</items>
